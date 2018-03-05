@@ -3,6 +3,16 @@ body {
 }
 .container {
   background-color: #EEEEEE;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.left-column {
+  float: left;
+  width: 25%;
+}
+.right-column {
+  float: right;
+  width: 75%;
 }
 * {
   box-sizing: border-box;
@@ -27,5 +37,5 @@ p {
   margin-top: 10px;
 }
 h1 {
-  font-size: 35px; 
+  font-size: 35px;
 }
