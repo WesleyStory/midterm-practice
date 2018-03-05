@@ -19,5 +19,9 @@ left-column p a {
   font-style: italic;
 }
 p {
-  font-size: 15px
+  font-size: 15px;
+}
+.caption{
+  font-size: 10px;
+  font-color: gray;
 }
