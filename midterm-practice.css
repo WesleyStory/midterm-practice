@@ -46,6 +46,7 @@ p {
   margin-top: 10px;
   border-bottom: black inset 1px; /*11*/
   font-family: Georgia; /*12*/
+  font-style: italic; /*13*/
 }
 h1 {
   font-size: 35px;
