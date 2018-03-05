@@ -45,6 +45,7 @@ p {
   font-color: gray;
   margin-top: 10px;
   border-bottom: black inset 1px; /*11*/
+  font-family: Georgia; /*12*/
 }
 h1 {
   font-size: 35px;
