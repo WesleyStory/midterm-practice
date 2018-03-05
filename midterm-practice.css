@@ -47,6 +47,7 @@ p {
   border-bottom: black inset 1px; /*11 gave bottom border to captions*/
   font-family: Georgia; /*12 changed caption font family to Georgia*/
   font-style: italic; /*13 made caption font style italic */
+  color: #777777; /* 14 made font color light gray*/ 
 }
 h1 {
   font-size: 35px;
