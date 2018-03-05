@@ -53,7 +53,7 @@ h1 {
   font-size: 35px;
   font-family: Georgia; /*16 changed h1 font-family to Georgia*/
   font-weight: lighter; /*17 made font weight lighter*/
-  
+  border-bottom: 3px dashed #bb5050; /*added border to bottom of h1*/
 }
 img {
   display: block; /*3 made the image display block style*/
