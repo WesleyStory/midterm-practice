@@ -1,6 +1,6 @@
 body {
   background-color: #000000;
-  padding: 60px; /*1*/
+  padding: 60px; /*1 changes the body padding to 60px*/
 }
 .container {
   background-color: #EEEEEE;
@@ -8,7 +8,7 @@ body {
   margin: 0 auto; /* NOTE: use this to center container*/
   padding: 30px;
   overflow: auto; /* NOTE: must do overflow to fill container*/
-  border: 10px ridge #283d70 /*2*/
+  border: 10px ridge #283d70 /*2 gave container a border*/
 }
 * {
   box-sizing: border-box;
@@ -18,7 +18,7 @@ body {
     float: left;
     width: 25%;
     padding-right: 15px;
-    border: black dotted 5px; /*10*/
+    border: black dotted 5px; /*10 gave left column a border*/
   }
   .right-column {
     float: right;
@@ -44,20 +44,19 @@ p {
   font-size: 10px;
   font-color: gray;
   margin-top: 10px;
-  border-bottom: black inset 1px; /*11*/
-  font-family: Georgia; /*12*/
-  font-style: italic; /*13*/
+  border-bottom: black inset 1px; /*11 gave bottom border to captions*/
+  font-family: Georgia; /*12 changed caption font family to Georgia*/
+  font-style: italic; /*13 made caption font style italic */
 }
 h1 {
   font-size: 35px;
 }
 img {
-  display: block; /*3*/
-  margin: 0 auto; /*4*/
-  margin-top: 10px; /*5*/
-  margin-bottom: 10px; /*6*/
-  width: 80%; /*7*/
-  border: 5px ridge #bb5050; /*8*/
-  padding: 4px; /*9*/
-
+  display: block; /*3 made the image display block style*/
+  margin: 0 auto; /*4 centered image*/
+  margin-top: 10px; /*5 increased margins on top of image*/
+  margin-bottom: 10px; /*6 increased margines on bottom of image*/
+  width: 80%; /*7 made image 80% width*/
+  border: 5px ridge #bb5050; /*8 gave images a border */
+  padding: 4px; /*9 gave images padding of 4px*/
 }
