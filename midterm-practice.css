@@ -8,6 +8,7 @@ body {
   margin: 0 auto;
   padding: 30px;
   overflow: auto;
+  border: 10px ridge #283d70
 }
 * {
   box-sizing: border-box;
@@ -52,5 +53,6 @@ img {
   margin-bottom: 10px;
   width: 80%;
   border: 5px ridge #bb5050;
-  padding: 4px; 
+  padding: 4px;
+
 }
