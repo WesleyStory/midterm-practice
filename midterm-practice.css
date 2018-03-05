@@ -18,7 +18,7 @@ body {
     float: left;
     width: 25%;
     padding-right: 15px;
-    border: black dotted 5px; 
+    border: black dotted 5px; /*10*/
   }
   .right-column {
     float: right;
@@ -44,6 +44,7 @@ p {
   font-size: 10px;
   font-color: gray;
   margin-top: 10px;
+  border-bottom: black inset 1px; /*11*/
 }
 h1 {
   font-size: 35px;
