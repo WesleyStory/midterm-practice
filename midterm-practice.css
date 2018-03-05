@@ -5,9 +5,9 @@ body {
 .container {
   background-color: #EEEEEE;
   max-width: 900px;
-  margin: 0 auto;
+  margin: 0 auto; /* NOTE: use this to center container*/
   padding: 30px;
-  overflow: auto;
+  overflow: auto; /* NOTE: must do overflow to fill container*/
   border: 10px ridge #283d70 /*2*/
 }
 * {
