@@ -7,22 +7,24 @@ body {
   margin: 0 auto;
   padding: 30px;
 }
-.left-column {
-  float: left;
-  width: 25%;
-}
-.right-column {
-  float: right;
-  width: 75%;
-  padding-left: 15px;
-}
 * {
   box-sizing: border-box;
+}
+@media(min-width: 550px) {
+  .left-column {
+    float: left;
+    width: 25%;
+    padding-right: 15px; 
+  }
+  .right-column {
+    float: right;
+    width: 75%;
+    padding-left: 15px;
+  }
 }
 left-column p {
   margin-bottom: 0;
   margin-top: 0;
-  padding-right: 15px; 
 }
 left-column p a {
   font-weight: bold;
