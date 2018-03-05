@@ -13,5 +13,8 @@ left-column p {
 }
 left-column p a {
   font-weight: bold;
-  font-size: 17px; 
+  font-size: 17px;
+}
+.b {
+  font-style: italic;
 }
