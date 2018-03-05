@@ -24,4 +24,5 @@ p {
 .caption{
   font-size: 10px;
   font-color: gray;
+  margin-top: 10px; 
 }
