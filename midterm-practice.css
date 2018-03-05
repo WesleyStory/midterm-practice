@@ -24,5 +24,8 @@ p {
 .caption{
   font-size: 10px;
   font-color: gray;
-  margin-top: 10px; 
+  margin-top: 10px;
+}
+h1 {
+  font-size: 35px; 
 }
