@@ -1,12 +1,13 @@
 body {
   background-color: #000000;
-  padding: 60px; 
+  padding: 60px;
 }
 .container {
   background-color: #EEEEEE;
   max-width: 900px;
   margin: 0 auto;
   padding: 30px;
+  overflow: auto; 
 }
 * {
   box-sizing: border-box;
