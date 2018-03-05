@@ -40,7 +40,7 @@ body {
 .c {
   font-size: 8px; /*20 made font size for 3rd line of byline 8px*/
 }
-p {
+.right-column p {
   font-size: 15px;
 }
 .caption{
