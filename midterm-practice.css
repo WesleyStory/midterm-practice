@@ -37,6 +37,9 @@ left-column p {
 .b {
   font-style: italic;
 }
+.c {
+  font-size: 8px; /*20 made font size for 3rd line of byline 8px*/
+}
 p {
   font-size: 15px;
 }
