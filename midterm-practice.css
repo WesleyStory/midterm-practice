@@ -52,6 +52,8 @@ p {
 h1 {
   font-size: 35px;
   font-family: Georgia; /*16 changed h1 font-family to Georgia*/
+  font-weight: lighter; /*17 made font weight lighter*/
+  
 }
 img {
   display: block; /*3 made the image display block style*/
