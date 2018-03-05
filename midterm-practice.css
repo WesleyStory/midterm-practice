@@ -51,5 +51,6 @@ img {
   margin-top: 10px;
   margin-bottom: 10px;
   width: 80%;
-  border: 5px ridge #bb5050; 
+  border: 5px ridge #bb5050;
+  padding: 4px; 
 }
