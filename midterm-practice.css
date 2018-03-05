@@ -18,6 +18,7 @@ body {
     float: left;
     width: 25%;
     padding-right: 15px;
+    border: black dotted 5px; 
   }
   .right-column {
     float: right;
